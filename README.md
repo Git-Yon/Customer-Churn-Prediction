@@ -1,4 +1,4 @@
-# Prédiction du Churn Client
+# 📉 Prédiction du Churn Client
 
 Bienvenue dans ce projet dédié à la prédiction du churn client, un enjeu clé pour la fidélisation et l’optimisation des actions marketing dans le secteur des télécoms.
 
